@@ -1,2 +1,2 @@
 # Oshchepkova_qa
-ne samyi ymnii' chelovek
+git add README.md
