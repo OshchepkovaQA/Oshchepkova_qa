@@ -10,4 +10,3 @@ https://docs.google.com/spreadsheets/d/1TCCB5UW7-99ayM6FHosDTRTi36Bgf-0kOIH1UzlY
                         [Мои чек листы и оформление баг репортов]
 
 ---
-
